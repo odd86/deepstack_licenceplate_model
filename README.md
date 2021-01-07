@@ -14,16 +14,16 @@ To use the model download `licence-plate.pt` file inside `/models` folder.
 
 3. To use licence plate detection call the endpoint `/v1/vision/custom/licence-plate` with your picture and you get this response if it finds a licence plate:
 
-```json
+```yaml
 {
 'success': True,
 'predictions': [{
-'confidence': 0.93365675,
-'label': 'licence-plate',
-'y_min': 279,
-'x_min': 640,
-'y_max': 340,
-'x_max': 767
+	'confidence': 0.93365675,
+	'label': 'licence-plate',
+	'y_min': 279,
+	'x_min': 640,
+	'y_max': 340,
+	'x_max': 767
 	}]
 }
 ```
