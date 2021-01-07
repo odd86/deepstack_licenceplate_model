@@ -1,6 +1,3 @@
-
-<![endif]-->
-
 # Deepstack licence plate model
 
 This is a model that can be used with [Deepstack](https://github.com/johnolafenwa/DeepStack)
@@ -21,12 +18,12 @@ To use the model download `licence-plate.pt` file inside `/models` folder.
 {
 'success': True,
 'predictions': [{
-	'confidence': 0.93365675,
-	'label': 'licence-plate',
-	'y_min': 279,
-	'x_min': 640,
-	'y_max': 340,
-	'x_max': 767
+'confidence': 0.93365675,
+'label': 'licence-plate',
+'y_min': 279,
+'x_min': 640,
+'y_max': 340,
+'x_max': 767
 	}]
 }
 ```
