@@ -10,7 +10,7 @@ To use the model download `licence-plate.pt` file inside `/models` folder.
 
 2. Run Deepstack with the command `--MODELSTORE-DETECTION "C:/DeepStack/models"`*
 
-**(if "C:/DeepStack/models" is your folder where you have stored the .pt file.)*
+> *(if "C:/DeepStack/models" is your folder where you have stored the .pt file.)*
 
 3. To use licence plate detection call the endpoint `/v1/vision/custom/licence-plate` with your picture and you get this response if it finds a licence plate:
 
