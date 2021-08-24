@@ -34,3 +34,8 @@ To use the model download `licence-plate.pt` file inside `/models` folder.
 This model is trained to detect Norwegian licence plates, but is tested with various other plates and are working with those. If its needs to train on other plates, please fork this repo and add more data. This can be done by following this guide from [Deepstack Custom Model Guide](https://docs.deepstack.cc/custom-models/datasetprep/index.html).
 
 If you add more data or if you train a new model with this and more data please submit a pull request so we can make a good community licence plate model.
+
+Here is a link to more licence plates:
+https://github.com/odd86/deepstack_licenceplate_model/issues/1
+
+
