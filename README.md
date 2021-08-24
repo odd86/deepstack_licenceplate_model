@@ -38,3 +38,4 @@ If you add more data or if you train a new model with this and more data please 
 Here is a link to more licence plates:
 https://github.com/odd86/deepstack_licenceplate_model/issues/2
 
+Here are some docs if you want OCR of the plate: https://github.com/odd86/deepstack_licenceplate_model/issues/1
