@@ -36,6 +36,5 @@ This model is trained to detect Norwegian licence plates, but is tested with var
 If you add more data or if you train a new model with this and more data please submit a pull request so we can make a good community licence plate model.
 
 Here is a link to more licence plates:
-https://github.com/odd86/deepstack_licenceplate_model/issues/1
-
+https://github.com/odd86/deepstack_licenceplate_model/issues/2
 
